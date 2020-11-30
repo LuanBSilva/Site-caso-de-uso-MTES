@@ -1,0 +1,61 @@
+div#pi{
+    font-size: 25px;
+    margin: 60px 250px 30px 250px;
+}
+
+img#Ft1{
+    margin-left: 360px;
+    margin-top: 20px;
+}
+
+img#Ft2{
+    margin-left: 570px;
+    margin-top: 10px;
+}
+
+img#Ft3{
+    margin-left: 570px;
+    margin-top: 10px;
+}
+img#Ft4{
+    margin-left: 570px;
+    margin-top: 10px;
+}
+img#Ft5{
+    margin-left: 460px;
+    margin-top: 10px;
+}
+
+img#Ft6{
+    margin-left: 440px;
+    margin-top: 10px;
+}
+
+img#Ft7{
+    margin-left: 440px;
+    margin-top: 10px;
+}
+img#Ft8{
+    margin-left: 480px;
+    margin-top: 10px;
+}
+img#Ft9{
+    margin-left: 350px;
+    margin-top: 10px;
+}
+img#Ft10{
+    margin-left: 320px;
+    margin-top: 10px;
+}
+
+div#rod1{
+    position: absolute;
+    left: 400px;
+    top: 7367px;
+}
+
+div#rod2{
+    position: absolute;
+    left: 800px;
+    top: 7367px;
+}
